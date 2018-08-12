@@ -1,0 +1,9 @@
+<?php
+	session_start();
+	unset($_SESSION['user']);
+	unset($_SESSION['email']);
+	unset($_SESSION['id']);
+	unset($_SESSION['admin_last_page']);
+	session_destroy();
+	header("location:index.php?logout");
+?>
