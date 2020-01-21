@@ -25,7 +25,7 @@ All the stocks can be saved. Customer details can be saved.
 
 <b>Add Products Screen: </b>
 
-![addp](https://user-images.githubusercontent.com/38319192/44000425-32e17650-9e3d-11e8-9cb8-49bf33fd93d2.png)
+![addp](https://github.com/syedrahaman92/Qsoftware/blob/master/Screen%20Shot%202020-01-21%20at%204.25.09%20PM.png)
 
 <b>Products list screen :</b>
 
