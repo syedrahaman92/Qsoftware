@@ -19,7 +19,7 @@
 					
 					
 					
-					 $mail_body = "Dear ".$_SESSION['user'].",<br/><br/>You have successfully updated your admin account access details. Following describe the new account access details.<br/><br/><b>Username:</b> ".$_POST['user']."<br/><b>Password:</b> ".$_POST['pwd']."<br/><br/>Regards,<br/>Administrator,<br/>ThinkingTech Solutions";
+					 $mail_body = "Dear ".$_SESSION['user'].",<br/><br/>You have successfully updated your admin account access details. Following describe the new account access details.<br/><br/><b>Username:</b> ".$_POST['user']."<br/><b>Password:</b> ".$_POST['pwd']."<br/><br/>Regards,<br/>Administrator,<br/>Syed Rahaman";
 
 					//@Send_HTML_Mail($_POST['mail'], 'syed.tts0@gmail.com', '', 'Your updated account access details', $mail_body);
 				
@@ -173,7 +173,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 	 
 		<!---->
 <div class="copy">
-             <p> &copy; 2017 All Rights Reserved | Design & Develop by <a href="http://www.thinkingtechsolutions.com/" target="_blank">ThinkingTech Solutions</a> </p>
+             <p> &copy; Design & Develop by <a href="https://github.com/syedrahaman92/" target="_blank">Syed Rahaman</a> </p>
 	    </div>
 		</div>
 		<div class="clearfix"> </div>

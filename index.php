@@ -57,7 +57,7 @@ if(isset($_POST['login']))
 			{
 			
 
-				$mail_body = "Dear ".$find_forgot_password_check['username'].",<br/><br/>You have successfully reset your admin account access details. Following describe the new account access details. You can update these access details once you get login to your account.<br/><br/><b>Username:</b> ".$find_forgot_password_check['username']."<br/><b>Password:</b> ".$new_password."<br/><br/>Regards,<br/>Administrator,<br/>ThinkingTech Solutions";
+				$mail_body = "Dear ".$find_forgot_password_check['username'].",<br/><br/>You have successfully reset your admin account access details. Following describe the new account access details. You can update these access details once you get login to your account.<br/><br/><b>Username:</b> ".$find_forgot_password_check['username']."<br/><b>Password:</b> ".$new_password."<br/><br/>Regards,<br/>Administrator,<br/>Syed Rahaman";
 			
 				@Send_HTML_Mail($_POST['email_address'], 'noreply@mcgees.ch', '', 'Your updated account access details', $mail_body);
 				
@@ -134,7 +134,7 @@ if(isset($_POST['login']))
 			<button type="submit" name="recover">Send</button>
 		  </form>
 	  </div>
-		<h4>&copy 2017 ThinkingTech Solutions</h4>
+		<h4>Syed Rahaman</h4>
 	</div>
 	
 	<ul class="bg-bubbles">

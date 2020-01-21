@@ -1010,7 +1010,7 @@ function delv_cal()
 	 
 		<!---->
 <div class="copy">
-             <p> &copy; 2017 All Rights Reserved | Design & Develop by <a href="http://www.thinkingtechsolutions.com/" target="_blank">ThinkingTech Solutions</a> </p>
+             <p> &copy; Design & Develop by <a href="https://github.com/syedrahaman92/" target="_blank">Syed Rahaman</a> </p>
 	    </div>
 		</div>
 		<div class="clearfix"> </div>
