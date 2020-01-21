@@ -5,7 +5,7 @@ All the stocks can be saved. Customer details can be saved.
 
 <b>Login Screen :</b>
 
-![login](https://user-images.githubusercontent.com/38319192/44000428-337a2454-9e3d-11e8-86e5-dd4e43e476c1.png)
+![login](https://github.com/syedrahaman92/Qsoftware/blob/master/Screen%20Shot%202020-01-21%20at%204.21.37%20PM.png)
 
 <b>Quotation creation screen :</b>
 
